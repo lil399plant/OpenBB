@@ -1,8 +1,0 @@
-libdir=/Users/lileggplant/OpenBB/conda/lib
-includedir=/Users/lileggplant/OpenBB/conda/include
-
-Name: libsolv
-Description: Library for solving packages
-Version: 0.7.36
-Libs: -L${libdir} -lsolv
-Cflags: -I${includedir}

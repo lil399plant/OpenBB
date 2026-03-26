@@ -1,8 +1,28 @@
+# Python
 .venv/
 __pycache__/
 *.pyc
+*.pyo
 .env
+
+# Data outputs (tracked selectively)
+data/
+reports/
 *.csv
 *.json
-!examples/*.json
+
+# macOS
 .DS_Store
+
+# Conda / OpenBB install folders
+OpenBB/
+conda/
+*.conda
+
+# Jupyter
+.ipynb_checkpoints/
+jupyter_runtime/
+jupyter_config/
+
+# Logs
+*.log
