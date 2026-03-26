@@ -1,0 +1,33 @@
+==> 2026-03-24 18:25:04 <==
+# cmd: /Users/lileggplant/OpenBB/conda/bin/conda env create -f /Users/lileggplant/.openbb_platform/environments/openbb.yaml -y
+# conda version: 26.1.1
++conda-forge/noarch::ca-certificates-2026.2.25-hbd8a1cb_0
++conda-forge/noarch::pip-26.0.1-pyh145f28c_0
++conda-forge/noarch::python_abi-3.13-8_cp313
++conda-forge/noarch::setuptools-82.0.1-pyh332efcf_0
++conda-forge/noarch::tzdata-2025c-hc9c84f9_1
++conda-forge/osx-arm64::bzip2-1.0.8-hd037594_9
++conda-forge/osx-arm64::c-ares-1.34.6-hc919400_0
++conda-forge/osx-arm64::icu-78.3-hef89b57_0
++conda-forge/osx-arm64::libabseil-20260107.1-cxx17_h2062a1b_0
++conda-forge/osx-arm64::libbrotlicommon-1.2.0-hc919400_1
++conda-forge/osx-arm64::libbrotlidec-1.2.0-hc919400_1
++conda-forge/osx-arm64::libbrotlienc-1.2.0-hc919400_1
++conda-forge/osx-arm64::libcxx-22.1.1-h55c6f16_0
++conda-forge/osx-arm64::libev-4.33-h93a5062_2
++conda-forge/osx-arm64::libexpat-2.7.4-hf6b4638_0
++conda-forge/osx-arm64::libffi-3.5.2-hcf2aa1b_0
++conda-forge/osx-arm64::liblzma-5.8.2-h8088a28_0
++conda-forge/osx-arm64::libmpdec-4.0.0-h84a0fba_1
++conda-forge/osx-arm64::libnghttp2-1.68.1-h8f3e76b_0
++conda-forge/osx-arm64::libsqlite-3.52.0-h1ae2325_0
++conda-forge/osx-arm64::libuv-1.51.0-h6caf38d_1
++conda-forge/osx-arm64::libzlib-1.3.2-h8088a28_2
++conda-forge/osx-arm64::ncurses-6.5-h5e97a16_3
++conda-forge/osx-arm64::nodejs-25.7.0-hbfc8e16_0
++conda-forge/osx-arm64::openssl-3.6.1-hd24854e_1
++conda-forge/osx-arm64::python-3.13.12-h20e6be0_100_cp313
++conda-forge/osx-arm64::readline-8.3-h46df422_0
++conda-forge/osx-arm64::tk-8.6.13-h010d191_3
++conda-forge/osx-arm64::zstd-1.5.7-hbf9d68e_6
+# update specs: ['nodejs', 'pip', 'python=3.13', 'setuptools']
